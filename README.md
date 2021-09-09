@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @juncoder-lab
+- 👋 Hi, I’m Sergey
 - 👀 I’m interested in PHP, JavaScript
 - 🌱 I’m currently learning Vue.js
 - 💞️ I’m looking to collaborate on Vue.js projects
