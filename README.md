@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sergey
-- 👀 I’m interested in PHP, JavaScript, Vue.js
+- 👀 I’m interested in JavaScript, TypeScript, Vue.js
 - 🌱 I’m currently learning Nuxt.js
 - 💞️ I’m looking to collaborate on Vue.js projects
 - 📫 How to reach me ... send me email
